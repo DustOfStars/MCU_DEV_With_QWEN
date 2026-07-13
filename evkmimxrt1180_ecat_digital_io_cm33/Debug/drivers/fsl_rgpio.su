@@ -1,0 +1,4 @@
+../drivers/fsl_rgpio.h:172:20:RGPIO_PinWrite	24	static
+../drivers/fsl_rgpio.h:188:20:RGPIO_WritePinOutput	24	static
+../drivers/fsl_rgpio.c:52:10:RGPIO_GetInstance	24	static
+../drivers/fsl_rgpio.c:96:6:RGPIO_PinInit	24	static

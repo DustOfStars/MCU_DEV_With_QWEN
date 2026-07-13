@@ -1,0 +1,13 @@
+C:\2026HandsOn_Workspace\evkmimxrt1180_ecat_digital_io_cm33\CMSIS/core_cm33.h:2358:22:__NVIC_EnableIRQ	16	static
+C:\2026HandsOn_Workspace\evkmimxrt1180_ecat_digital_io_cm33\CMSIS/core_cm33.h:2396:22:__NVIC_DisableIRQ	16	static
+../drivers/fsl_common_arm.h:678:24:EnableIRQ	24	static
+../drivers/fsl_common_arm.h:728:24:DisableIRQ	24	static
+../drivers/fsl_msgintr.c:30:17:MSGINTR_GetInstance	24	static
+../drivers/fsl_msgintr.c:48:10:MSGINTR_Init	24	static
+../drivers/fsl_msgintr.c:58:10:MSGINTR_Deinit	24	static
+../drivers/fsl_msgintr.c:76:6:MSGINTR1_IRQHandler	16	static
+../drivers/fsl_msgintr.c:94:6:MSGINTR2_IRQHandler	16	static
+../drivers/fsl_msgintr.c:112:6:MSGINTR3_IRQHandler	16	static
+../drivers/fsl_msgintr.c:130:6:MSGINTR4_IRQHandler	16	static
+../drivers/fsl_msgintr.c:148:6:MSGINTR5_IRQHandler	16	static
+../drivers/fsl_msgintr.c:166:6:MSGINTR6_IRQHandler	16	static

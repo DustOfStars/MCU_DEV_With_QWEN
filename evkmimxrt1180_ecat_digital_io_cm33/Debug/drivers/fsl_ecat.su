@@ -1,0 +1,2 @@
+../drivers/fsl_ecat.c:15:10:ECAT_EscMdioRead	24	static
+../drivers/fsl_ecat.c:55:10:ECAT_EscMdioWrite	16	static

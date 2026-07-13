@@ -1,0 +1,11 @@
+../source/SSC/Src/coeappl.c:332:7:Read0x10F8	24	static
+../source/SSC/Src/coeappl.c:370:6:COE_SyncTimeStamp	48	static
+../source/SSC/Src/coeappl.c:543:27:COE_GetObjectDictionary	4	static
+../source/SSC/Src/coeappl.c:553:6:COE_UpdateSyncErrorStatus	4	static
+../source/SSC/Src/coeappl.c:581:6:COE_ObjInit	16	static
+../source/SSC/Src/coeappl.c:722:8:COE_AddObjectToDic	24	static
+../source/SSC/Src/coeappl.c:788:6:COE_RemoveDicEntry	32	static
+../source/SSC/Src/coeappl.c:827:6:COE_ClearObjDictionary	16	static
+../source/SSC/Src/coeappl.c:843:8:AddObjectsToObjDictionary	24	static
+../source/SSC/Src/coeappl.c:870:8:COE_ObjDictionaryInit	16	static
+../source/SSC/Src/coeappl.c:902:6:COE_Main	32	static

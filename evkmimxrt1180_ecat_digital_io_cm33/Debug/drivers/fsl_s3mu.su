@@ -1,0 +1,10 @@
+../drivers/fsl_s3mu.c:54:10:S3MU_SendMessage	32	static
+../drivers/fsl_s3mu.c:79:13:s3mu_hal_send_data	32	static
+../drivers/fsl_s3mu.c:100:10:S3MU_GetResponse	24	static
+../drivers/fsl_s3mu.c:127:10:S3MU_ReadMessage	40	static
+../drivers/fsl_s3mu.c:167:13:s3mu_hal_receive_data	32	static
+../drivers/fsl_s3mu.c:192:10:S3MU_WaitForData	32	static
+../drivers/fsl_s3mu.c:212:17:s3mu_read_data_wait	32	static
+../drivers/fsl_s3mu.c:248:17:s3mu_hal_receive_data_wait	32	static
+../drivers/fsl_s3mu.c:275:6:S3MU_Init	16	static
+../drivers/fsl_s3mu.c:290:10:S3MU_ComputeMsgCrc	24	static

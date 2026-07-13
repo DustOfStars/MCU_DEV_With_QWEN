@@ -1,0 +1,12 @@
+C:\2026HandsOn_Workspace\evkmimxrt1180_ecat_digital_io_cm33\drivers/fsl_clock.h:1474:24:CLOCK_GetRootClockMux	16	static
+C:\2026HandsOn_Workspace\evkmimxrt1180_ecat_digital_io_cm33\drivers/fsl_clock.h:1515:24:CLOCK_GetRootClockDiv	16	static
+C:\2026HandsOn_Workspace\evkmimxrt1180_ecat_digital_io_cm33\drivers/fsl_clock.h:1560:20:CLOCK_SetRootClock	16	static
+C:\2026HandsOn_Workspace\evkmimxrt1180_ecat_digital_io_cm33\drivers/fsl_clock.h:1634:24:CLOCK_GetRootClockFreq	32	static
+C:\2026HandsOn_Workspace\evkmimxrt1180_ecat_digital_io_cm33\drivers/fsl_clock.h:1759:20:CLOCK_OSC_EnableOscRc24M	16	static
+C:\2026HandsOn_Workspace\evkmimxrt1180_ecat_digital_io_cm33\drivers/fsl_misc.h:46:20:BLK_CTRL_SetSaiMClkClockSource	24	static
+../board/clock_config.c:52:28:BOARD_FlexspiClockSafeConfig	4	static
+../board/clock_config.c:66:28:BOARD_SetFlexspiClock	24	static
+../board/clock_config.c:77:28:EdgeLock_SetClock	16	static
+../board/clock_config.c:88:28:DCDC_SetVoltage	16	static
+../board/clock_config.c:96:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:391:6:BOARD_BootClockRUN	16	static

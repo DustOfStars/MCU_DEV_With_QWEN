@@ -1,0 +1,5 @@
+../drivers/fsl_soc_src.c:42:6:SRC_ReleaseCM7	16	static
+../drivers/fsl_soc_src.c:60:6:SRC_SetGlobalSystemResetMode	24	static
+../drivers/fsl_soc_src.c:77:6:SRC_SLICE_SoftwareControl	16	static
+../drivers/fsl_soc_src.c:146:6:SRC_SLICE_PowerDown	16	static
+../drivers/fsl_soc_src.c:160:6:SRC_SLICE_ControlByCpuLowPowerMode	40	static

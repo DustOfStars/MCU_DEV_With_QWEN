@@ -1,0 +1,5 @@
+../device/system_MIMXRT1189_cm33.c:65:29:SystemInit	8	static
+../device/system_MIMXRT1189_cm33.c:175:6:SystemCoreClockUpdate	4	static
+../device/system_MIMXRT1189_cm33.c:184:28:SystemInitHook	4	static
+../device/system_MIMXRT1189_cm33.c:193:13:InitCM7DMA	16	static
+../device/system_MIMXRT1189_cm33.c:221:6:Prepare_CM7	16	static

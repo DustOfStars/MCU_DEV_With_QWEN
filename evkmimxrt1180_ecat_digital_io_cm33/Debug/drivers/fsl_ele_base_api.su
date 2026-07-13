@@ -1,0 +1,14 @@
+../drivers/fsl_ele_base_api.c:31:17:nvm_storage_handle_req	24	static
+../drivers/fsl_ele_base_api.c:48:17:ele_mu_get_response	88	static
+../drivers/fsl_ele_base_api.c:96:10:ELE_BaseAPI_Ping	40	static
+../drivers/fsl_ele_base_api.c:140:10:ELE_BaseAPI_GetFwVersion	40	static
+../drivers/fsl_ele_base_api.c:185:10:ELE_BaseAPI_EnableAPC	40	static
+../drivers/fsl_ele_base_api.c:233:10:ELE_BaseAPI_ForwardLifecycle	48	static
+../drivers/fsl_ele_base_api.c:275:10:ELE_BaseAPI_ClockChangeStart	40	static
+../drivers/fsl_ele_base_api.c:321:10:ELE_BaseAPI_ClockChangeFinish	48	static
+../drivers/fsl_ele_base_api.c:364:10:ELE_BaseAPI_VoltageChangeStart	40	static
+../drivers/fsl_ele_base_api.c:406:10:ELE_BaseAPI_VoltageChangeFinish	40	static
+../drivers/fsl_ele_base_api.c:452:10:ELE_BaseAPI_GetFwStatus	40	static
+../drivers/fsl_ele_base_api.c:497:10:ELE_BaseAPI_EnableOtfad	48	static
+../drivers/fsl_ele_base_api.c:549:10:ELE_BaseAPI_ReleaseRDC	56	static
+../drivers/fsl_ele_base_api.c:593:10:ELE_BaseAPI_StartRng	40	static

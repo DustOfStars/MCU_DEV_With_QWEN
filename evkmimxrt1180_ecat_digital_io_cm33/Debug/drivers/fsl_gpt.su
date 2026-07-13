@@ -1,0 +1,9 @@
+../drivers/fsl_clock.h:1581:20:CLOCK_ControlGate	16	static
+../drivers/fsl_clock.h:1599:20:CLOCK_EnableClock	16	static
+../drivers/fsl_clock.h:1609:20:CLOCK_DisableClock	16	static
+../drivers/fsl_gpt.h:168:20:GPT_SoftwareReset	16	static
+../drivers/fsl_gpt.h:251:20:GPT_SetClockDivider	16	static
+../drivers/fsl_gpt.c:33:17:GPT_GetInstance	24	static
+../drivers/fsl_gpt.c:58:6:GPT_Init	16	static
+../drivers/fsl_gpt.c:93:6:GPT_Deinit	16	static
+../drivers/fsl_gpt.c:120:6:GPT_GetDefaultConfig	16	static

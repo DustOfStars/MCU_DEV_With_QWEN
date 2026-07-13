@@ -1,0 +1,11 @@
+../component/phy/fsl_phy.h:217:24:PHY_Write	16	static
+../component/phy/fsl_phyrtl8201.c:69:10:PHY_RTL8201_Init	32	static
+../component/phy/fsl_phyrtl8201.c:168:10:PHY_RTL8201_Write	16	static
+../component/phy/fsl_phyrtl8201.c:173:10:PHY_RTL8201_Read	24	static
+../component/phy/fsl_phyrtl8201.c:178:10:PHY_RTL8201_GetAutoNegotiationStatus	24	static
+../component/phy/fsl_phyrtl8201.c:199:10:PHY_RTL8201_GetLinkStatus	24	static
+../component/phy/fsl_phyrtl8201.c:230:10:PHY_RTL8201_GetLinkSpeedDuplex	32	static
+../component/phy/fsl_phyrtl8201.c:268:10:PHY_RTL8201_SetLinkSpeedDuplex	24	static
+../component/phy/fsl_phyrtl8201.c:299:10:PHY_RTL8201_EnableLoopback	24	static
+../component/phy/fsl_phyrtl8201.c:337:10:PHY_RTL8201_EnableLinkInterrupt	24	static
+../component/phy/fsl_phyrtl8201.c:382:10:PHY_RTL8201_ClearInterrupt	24	static

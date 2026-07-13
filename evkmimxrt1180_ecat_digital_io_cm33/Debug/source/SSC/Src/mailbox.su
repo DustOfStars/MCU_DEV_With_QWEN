@@ -1,0 +1,13 @@
+../source/SSC/Src/mailbox.c:188:7:PutInMbxQueue	24	static
+../source/SSC/Src/mailbox.c:221:15:GetOutOfMbxQueue	24	static
+../source/SSC/Src/mailbox.c:256:6:MBX_Init	16	static
+../source/SSC/Src/mailbox.c:303:8:MBX_StartMailboxHandler	16	static
+../source/SSC/Src/mailbox.c:369:6:MBX_StopMailboxHandler	16	static
+../source/SSC/Src/mailbox.c:449:7:MailboxServiceInd	24	static
+../source/SSC/Src/mailbox.c:481:6:MBX_MailboxWriteInd	24	static
+../source/SSC/Src/mailbox.c:538:6:MBX_MailboxReadInd	16	static
+../source/SSC/Src/mailbox.c:612:6:MBX_MailboxRepeatReq	16	static
+../source/SSC/Src/mailbox.c:675:7:MBX_MailboxSendReq	24	static
+../source/SSC/Src/mailbox.c:742:6:MBX_CheckAndCopyMailbox	24	static
+../source/SSC/Src/mailbox.c:850:7:MBX_CopyToSendMailbox	32	static
+../source/SSC/Src/mailbox.c:954:6:MBX_Main	16	static

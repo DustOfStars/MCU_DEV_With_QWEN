@@ -1,0 +1,10 @@
+../drivers/netc/fsl_netc_soc.c:17:10:NETC_SocSetMiiMode	32	static
+../drivers/netc/fsl_netc_soc.c:51:10:NETC_SocEnableRevmii	24	static
+../drivers/netc/fsl_netc_soc.c:67:10:NETC_SocSetRevmiiMiiRate	24	static
+../drivers/netc/fsl_netc_soc.c:77:10:NETC_SocSetRevmiiRgmiiDelay	24	static
+../drivers/netc/fsl_netc_soc.c:94:10:NETC_SocTimerClkSel	24	static
+../drivers/netc/fsl_netc_soc.c:110:10:NETC_SocSetTimer	24	static
+../drivers/netc/fsl_netc_soc.c:121:10:NETC_SocSetRmiiRefClk	24	static
+../drivers/netc/fsl_netc_soc.c:139:6:NETC_SocGetBaseResource	24	static
+../drivers/netc/fsl_netc_soc.c:165:10:NETC_SocGetFuncInstance	24	static
+../drivers/netc/fsl_netc_soc.c:181:10:NETC_SocSetLinkAddr	24	static

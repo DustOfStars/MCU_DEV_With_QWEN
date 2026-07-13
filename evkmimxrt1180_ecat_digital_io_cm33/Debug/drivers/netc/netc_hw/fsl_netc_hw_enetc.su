@@ -1,0 +1,12 @@
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.h:58:20:NETC_EnetcHasManagement	16	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:9:6:NETC_EnetcGetCapability	24	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:35:6:NETC_EnetcSetSIMacAddr	32	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:51:10:NETC_EnetcConfigureSI	40	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:113:10:NETC_EnetcSetMsixEntryNum	40	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:141:6:NETC_EnetcGetPortDiscardStatistic	24	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:156:6:NETC_EnetcEnablePromiscuous	16	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:177:6:NETC_EnetcConfigureVlanFilter	24	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:200:6:NETC_EnetcAddMacAddrHash	16	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:228:6:NETC_EnetcDelMacAddrHash	16	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:256:6:NETC_EnetcAddVlanHash	16	static
+../drivers/netc/netc_hw/fsl_netc_hw_enetc.c:268:6:NETC_EnetcDelVlanHash	16	static

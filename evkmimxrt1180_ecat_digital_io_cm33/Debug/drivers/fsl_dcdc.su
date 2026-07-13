@@ -1,0 +1,14 @@
+../drivers/fsl_clock.h:1581:20:CLOCK_ControlGate	16	static
+../drivers/fsl_clock.h:1599:20:CLOCK_EnableClock	16	static
+../drivers/fsl_clock.h:1609:20:CLOCK_DisableClock	16	static
+../drivers/fsl_dcdc.c:41:17:DCDC_GetInstance	24	static
+../drivers/fsl_dcdc.c:65:6:DCDC_Init	24	static
+../drivers/fsl_dcdc.c:83:6:DCDC_Deinit	16	static
+../drivers/fsl_dcdc.c:104:6:DCDC_GetDefaultConfig	16	static
+../drivers/fsl_dcdc.c:133:6:DCDC_GetDefaultDetectionConfig	16	static
+../drivers/fsl_dcdc.c:153:6:DCDC_SetDetectionConfig	24	static
+../drivers/fsl_dcdc.c:192:6:DCDC_SetClockSource	24	static
+../drivers/fsl_dcdc.c:237:6:DCDC_GetDefaultLoopControlConfig	16	static
+../drivers/fsl_dcdc.c:260:6:DCDC_SetLoopControlConfig	24	static
+../drivers/fsl_dcdc.c:313:6:DCDC_SetInternalRegulatorConfig	24	static
+../drivers/fsl_dcdc.c:333:6:DCDC_BootIntoCCM	16	static

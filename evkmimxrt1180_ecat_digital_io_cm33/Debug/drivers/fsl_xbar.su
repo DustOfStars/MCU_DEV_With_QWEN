@@ -1,0 +1,10 @@
+../drivers/fsl_clock.h:1581:20:CLOCK_ControlGate	16	static
+../drivers/fsl_clock.h:1599:20:CLOCK_EnableClock	16	static
+../drivers/fsl_clock.h:1609:20:CLOCK_DisableClock	16	static
+../drivers/fsl_xbar.c:95:17:XBAR_GetCtrlRegAndShift	32	static
+../drivers/fsl_xbar.c:123:6:XBAR_Init	16	static
+../drivers/fsl_xbar.c:138:6:XBAR_Deinit	16	static
+../drivers/fsl_xbar.c:163:10:XBAR_SetSignalsConnection	40	static
+../drivers/fsl_xbar.c:208:10:XBAR_ClearOutputStatusFlag	32	static
+../drivers/fsl_xbar.c:248:10:XBAR_GetOutputStatusFlag	32	static
+../drivers/fsl_xbar.c:292:10:XBAR_SetOutputSignalConfig	32	static

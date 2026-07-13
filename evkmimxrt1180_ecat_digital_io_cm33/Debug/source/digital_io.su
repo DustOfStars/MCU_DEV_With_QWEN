@@ -1,0 +1,15 @@
+C:\2026HandsOn_Workspace\evkmimxrt1180_ecat_digital_io_cm33\drivers/fsl_rgpio.h:172:20:RGPIO_PinWrite	24	static
+../source/digital_io.c:51:6:APPL_AckErrorInd	16	static
+../source/digital_io.c:69:8:APPL_StartMailboxHandler	4	static
+../source/digital_io.c:85:8:APPL_StopMailboxHandler	4	static
+../source/digital_io.c:106:8:APPL_StartInputHandler	16	static
+../source/digital_io.c:122:8:APPL_StopInputHandler	4	static
+../source/digital_io.c:140:8:APPL_StartOutputHandler	4	static
+../source/digital_io.c:156:8:APPL_StopOutputHandler	4	static
+../source/digital_io.c:170:8:APPL_GenerateMapping	48	static
+../source/digital_io.c:262:6:APPL_InputMapping	16	static
+../source/digital_io.c:274:6:APPL_OutputMapping	16	static
+../source/digital_io.c:284:6:APPL_Application	8	static
+../source/digital_io.c:320:7:ReadObject0x6000	24	static
+../source/digital_io.c:352:7:WriteObject0x7000	24	static
+../source/digital_io.c:386:5:main	8	static

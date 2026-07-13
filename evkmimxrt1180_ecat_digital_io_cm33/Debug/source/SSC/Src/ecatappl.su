@@ -1,0 +1,12 @@
+../source/SSC/Src/ecatappl.c:221:6:PDO_InputMapping	16	static
+../source/SSC/Src/ecatappl.c:291:6:PDO_OutputMapping	16	static
+../source/SSC/Src/ecatappl.c:341:6:ECAT_CheckTimer	24	static
+../source/SSC/Src/ecatappl.c:382:6:HandleCycleTimeMeasurement	8	static
+../source/SSC/Src/ecatappl.c:417:8:GetSystemTimeDelay	24	static
+../source/SSC/Src/ecatappl.c:457:6:PDI_Isr	16	static
+../source/SSC/Src/ecatappl.c:574:6:Sync0_Isr	16	static
+../source/SSC/Src/ecatappl.c:672:6:Sync1_Isr	8	static
+../source/SSC/Src/ecatappl.c:696:6:ECAT_SetLedIndication	16	static
+../source/SSC/Src/ecatappl.c:882:8:MainInit	24	static
+../source/SSC/Src/ecatappl.c:971:6:MainLoop	16	static
+../source/SSC/Src/ecatappl.c:1074:6:ECAT_Application	8	static

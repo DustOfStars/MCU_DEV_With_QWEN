@@ -1,0 +1,9 @@
+../drivers/fsl_cache.c:46:10:XCACHE_GetInstanceByAddr	24	static
+../drivers/fsl_cache.c:66:6:XCACHE_EnableCache	16	static
+../drivers/fsl_cache.c:83:6:XCACHE_DisableCache	16	static
+../drivers/fsl_cache.c:99:6:XCACHE_InvalidateCache	16	static
+../drivers/fsl_cache.c:124:6:XCACHE_InvalidateCacheByRange	40	static
+../drivers/fsl_cache.c:167:6:XCACHE_CleanCache	16	static
+../drivers/fsl_cache.c:192:6:XCACHE_CleanCacheByRange	40	static
+../drivers/fsl_cache.c:235:6:XCACHE_CleanInvalidateCache	16	static
+../drivers/fsl_cache.c:261:6:XCACHE_CleanInvalidateCacheByRange	40	static

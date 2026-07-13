@@ -1,0 +1,7 @@
+../source/SSC/Src/sdoserv.c:211:14:SdoDownloadSegmentInd	48	static
+../source/SSC/Src/sdoserv.c:388:14:SdoUploadSegmentInd	32	static
+../source/SSC/Src/sdoserv.c:487:6:SdoRes	24	static
+../source/SSC/Src/sdoserv.c:576:7:SDOS_SdoInd	80	static
+../source/SSC/Src/sdoserv.c:953:6:SDOS_SdoRes	48	static
+../source/SSC/Src/sdoserv.c:1013:7:SDOS_ClearPendingResponse	8	static
+../source/SSC/Src/sdoserv.c:1052:7:SDOS_SdoInfoInd	72	static

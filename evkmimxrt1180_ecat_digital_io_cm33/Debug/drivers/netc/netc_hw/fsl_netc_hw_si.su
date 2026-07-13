@@ -1,0 +1,13 @@
+../drivers/netc/netc_hw/fsl_netc_hw_si.h:364:20:NETC_SIPsiCheckTxBusy	16	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:9:10:NETC_SIConfigTxBDR	48	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:35:10:NETC_SIConfigRxBDR	48	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:80:6:NETC_SIPsiEnableInterrupt	24	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:92:10:NETC_SIPsiSendMsg	24	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:108:10:NETC_SIPsiSetRxBuffer	64	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:128:10:NETC_SIPsiGetRxMsg	88	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:160:6:NETC_SIVsiEnableInterrupt	24	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:172:10:NETC_SIVsiSendMsg	64	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:203:6:NETC_SIVsiCheckTxStatus	24	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:214:10:NETC_SIVsiReceiveMsg	24	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:228:6:NETC_SIGetDiscardStatistic	24	static
+../drivers/netc/netc_hw/fsl_netc_hw_si.c:249:6:NETC_SIGetTrafficStatistic	208	static

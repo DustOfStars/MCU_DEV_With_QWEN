@@ -1,0 +1,7 @@
+../drivers/fsl_gpc.c:43:6:GPC_AssignCpuDomain	16	static
+../drivers/fsl_gpc.c:71:6:GPC_CM_EnableIrqWakeup	24	static
+../drivers/fsl_gpc.c:95:6:GPC_CM_GetIrqWakeupStatus	32	static
+../drivers/fsl_gpc.c:117:6:GPC_CM_EnableCpuModeTransitionStep	24	static
+../drivers/fsl_gpc.c:141:6:GPC_CM_RequestSystemSleepMode	16	static
+../drivers/fsl_gpc.c:168:6:GPC_CM_ClearSystemSleepModeRequest	16	static
+../drivers/fsl_gpc.c:198:6:GPC_SS_EnableSystemSleepTransitionStep	24	static
